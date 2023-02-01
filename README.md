@@ -1,6 +1,6 @@
 # Hi everyone :wave:
 
-I'm a web developer from Kenya, who loves open source. I mainly code in Go and confortable working with Angular, Python, Docker, Kubernetes and tools like Redis & RabbitMQ. I am always learning. I also write in my free time. You may check my [personal blog website](https://meronhayle.me/).
+I'm an infrastructure and web developer from Kenya, who loves open source. I mainly code in Go and confortable working with Angular, Python, Docker, Kubernetes and tools like Redis & RabbitMQ. I am always learning. I also write in my free time. You may check my [personal blog website](https://meronhayle.me/).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mernat)](https://github.com/anuraghazra/github-readme-stats)
 
