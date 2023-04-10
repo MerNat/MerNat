@@ -6,7 +6,7 @@ I'm an infrastructure and web developer from Kenya, who loves open source. I mai
 [![giannis](https://img.shields.io/static/v1?style=for-the-badge&message=meronhayle.me&color=blue&logoColor=FFFFFF&label=)](https://meronhayle.me/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meron-hayle-b92308102)
 
-### Stacks and tools that I'm confortable to work with
+### Stacks and tools that I'm comfortable to work with
 ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
