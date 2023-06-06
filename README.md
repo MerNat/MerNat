@@ -1,6 +1,6 @@
 # Hi everyone :wave:
 
-I'm an infrastructure and web developer from Kenya, who loves open source. I mainly code in Go and comfortable working with Angular, Python, Java,  Docker, Kubernetes and tools like Redis & RabbitMQ. I am always learning. I also write in my free time. You may check my [personal blog website](https://meronhayle.me/).
+I'm an infrastructure and web developer from Kenya who is passionate about open source. My primary programming language is Go, and I am also comfortable working with Angular, Python, Java, Docker, and Kubernetes. I have experience with essential tools like Redis and RabbitMQ. As an avid learner, I am constantly expanding my knowledge and skills. In my free time, I enjoy writing, and you can explore my [personal blog](https://meronhayle.me/) on my website.
 
 ### My Website / Profile
 [![giannis](https://img.shields.io/static/v1?style=for-the-badge&message=meronhayle.me&color=blue&logoColor=FFFFFF&label=)](https://meronhayle.me/)
