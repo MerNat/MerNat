@@ -4,7 +4,7 @@ I'm an infrastructure and web developer who is passionate about open source. My 
 
 ### My Website / Profile
 [![giannis](https://img.shields.io/static/v1?style=for-the-badge&message=meronhayle.me&color=blue&logoColor=FFFFFF&label=)](https://meronhayle.me/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meron-hayle-b92308102)
+<!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meron-hayle-b92308102) -->
 
 ### Certifications
 [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/e10e3b2a-2bdc-4311-be34-d9c194b2c095/public_url)
