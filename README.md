@@ -1,6 +1,6 @@
 # Hi :wave:
 
-I'm an infrastructure and web developer who is passionate about open source. My primary programming language is Go, and I am also comfortable working with Angular, Python, Java, Docker, and Kubernetes. I have experience with essential tools like Redis and RabbitMQ. As an avid learner, I am constantly expanding my knowledge and skills. In my free time, I enjoy writing, and you can explore my [personal blog](https://meronhayle.me/) on my website.
+I'm an infrastructure and full-stack engineer who is passionate about open source. My primary programming language is Go, and I am also comfortable working with Angular, Python, Java, Docker, and Kubernetes. I have experience with essential tools like Redis and RabbitMQ. As an avid learner, I am constantly expanding my knowledge and skills. In my free time, I enjoy writing, and you can explore my [personal blog](https://meronhayle.me/) on my website.
 
 ### My Website / Profile
 [![giannis](https://img.shields.io/static/v1?style=for-the-badge&message=meronhayle.me&color=blue&logoColor=FFFFFF&label=)](https://meronhayle.me/)
