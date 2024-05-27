@@ -7,6 +7,8 @@ I'm an infrastructure and software engineer who is passionate about open source.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meron-hayle/)
 
 ### Certifications
+[CKS: Certified Kubernetes Security Specialist](https://www.credly.com/badges/d22a5797-14a8-4227-b516-3f247963bd07/public_url)
+
 [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/e10e3b2a-2bdc-4311-be34-d9c194b2c095/public_url)
 
 [Oracle Cloud Infrastructure 2021 Architect Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=360150F64767557BEB1B0540B6B0FA516D447C65512605C0D45DA4B37C94124C)
