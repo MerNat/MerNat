@@ -9,6 +9,8 @@ I'm an infrastructure and software engineer who is passionate about open source.
 ### Certifications
 [CKS: Certified Kubernetes Security Specialist](https://www.credly.com/badges/d22a5797-14a8-4227-b516-3f247963bd07/public_url)
 
+[Microsoft: Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/MeronHayle-8180/82EBBF137519BECB?sharingId=C858684284416639)
+
 [CC: Certified in Cybersecurity](https://www.credly.com/badges/0df92451-4a3e-4e31-90bb-d719b6c865da/public_url)
 
 [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/e10e3b2a-2bdc-4311-be34-d9c194b2c095/public_url)
