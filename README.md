@@ -1,6 +1,6 @@
 # Hi :wave:
 
-I’m a software Engineer and Cloud Infrastructure Specialist with eight years of experience, primarily working with Golang, Angular, Python, Java, Docker, and Kubernetes. I’m skilled in using tools like Redis and RabbitMQ to build scalable and secure solutions. Certified in Kubernetes, Oracle Cloud, and Cybersecurity, I’m passionate about continuous learning and open-source contributions. In my free time, I enjoy writing, and you can find my [personal blog](https://meronhayle.me/) on my website.
+I’m a Software Engineer and Cloud Infrastructure Specialist with eight years of experience, primarily working with Golang, Angular, Python, Java, Docker, and Kubernetes. I’m skilled in using tools like Redis and RabbitMQ to build scalable and secure solutions. Certified in Kubernetes, Oracle Cloud, and Cybersecurity, I’m passionate about continuous learning and open-source contributions. In my free time, I enjoy writing, and you can find my [personal blog](https://meronhayle.me/) on my website.
 
 ### My Website / Profile
 [![giannis](https://img.shields.io/static/v1?style=for-the-badge&message=meronhayle.me&color=blue&logoColor=FFFFFF&label=)](https://meronhayle.me/)
