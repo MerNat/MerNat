@@ -1,19 +1,21 @@
 # Hi :wave:
 
-I’m a Software Engineer and Cloud Infrastructure Specialist with eight years of experience, primarily working with Golang, Angular, Python, Java, Docker, and Kubernetes. I’m skilled in using tools like Redis and RabbitMQ to build scalable and secure solutions. Certified in Kubernetes, Azure Cloud, Oracle Cloud, and Cybersecurity, I’m passionate about continuous learning and open-source contributions. In my free time, I enjoy writing, and you can find my [personal blog](https://meronhayle.me/) on my website.
+I’m a Software Engineer and Cloud Infrastructure Specialist with eight years of experience, primarily working with Golang, Angular, Python, Java, Docker, and Kubernetes. I’m Certified in Kubernetes, Azure Cloud, Oracle Cloud, and Cybersecurity, I’m passionate about continuous learning and open-source contributions. In my free time, I enjoy writing, and you can find my [personal blog](https://meronhayle.me/) on my website.
 
 ### My Website / Profile
 [![giannis](https://img.shields.io/static/v1?style=for-the-badge&message=meronhayle.me&color=blue&logoColor=FFFFFF&label=)](https://meronhayle.me/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meron-hayle/)
 
 ### Certifications
+[Microsoft: Azure Solutions Architect Expert](https://learn.microsoft.com/api/credentials/share/en-us/MeronHayle-8180/5A02AAE7E94AC38B?sharingId=C858684284416639)
+
 [CKS: Certified Kubernetes Security Specialist](https://www.credly.com/badges/d22a5797-14a8-4227-b516-3f247963bd07/public_url)
+
+[CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/e10e3b2a-2bdc-4311-be34-d9c194b2c095/public_url)
 
 [Microsoft: Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/MeronHayle-8180/82EBBF137519BECB?sharingId=C858684284416639)
 
 [CC: Certified in Cybersecurity](https://www.credly.com/badges/0df92451-4a3e-4e31-90bb-d719b6c865da/public_url)
-
-[CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/e10e3b2a-2bdc-4311-be34-d9c194b2c095/public_url)
 
 [Oracle Cloud Infrastructure 2021 Architect Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=360150F64767557BEB1B0540B6B0FA516D447C65512605C0D45DA4B37C94124C)
 
