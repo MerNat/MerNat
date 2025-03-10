@@ -1,4 +1,4 @@
-# Hi :wave:
+# Hello
 
 I’m a Software Engineer and Cloud Infrastructure Specialist with eight years of experience, primarily working with Golang, Angular, Python, Java, Docker, and Kubernetes. I’m Certified in Kubernetes, Azure Cloud, Oracle Cloud, and Cybersecurity, I’m passionate about continuous learning and open-source contributions. In my free time, I enjoy writing, and you can find my [personal blog](https://meronhayle.me/) on my website.
 
