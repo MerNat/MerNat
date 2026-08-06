@@ -1,12 +1,14 @@
 # Hello
 
-I’m a Software Engineer and Cloud Infrastructure Specialist with more than nine years of experience, primarily working with Golang, Angular, Python, Java, Docker, and Kubernetes. I’m Certified in Kubernetes, Azure Cloud, Oracle Cloud, and Cybersecurity, I’m passionate about continuous learning and open-source contributions. In my free time, I enjoy writing, and you can find my [personal blog](https://meronhayle.me/) on my website.
+I'm a software engineer with over 9 years of experience building scalable software and cloud-native solutions. I'm passionate about solving real world problems, continuously learning, contributing to open source, and sharing knowledge through my [personal blog](https://meronhayle.me/).
 
 ### My Website / Profile
 [![giannis](https://img.shields.io/static/v1?style=for-the-badge&message=meronhayle.me&color=blue&logoColor=FFFFFF&label=)](https://meronhayle.me/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meron-hayle/)
 
 ### Certifications
+[CCSP: Certified Cloud Security Professional (ISC²)](https://www.credly.com/badges/1eb5d944-ad7d-4e93-a789-b61eb6a55d93/public_url)
+
 [Microsoft: Azure Solutions Architect Expert](https://learn.microsoft.com/api/credentials/share/en-us/MeronHayle-8180/5A02AAE7E94AC38B?sharingId=C858684284416639)
 
 [CKS: Certified Kubernetes Security Specialist](https://www.credly.com/badges/d22a5797-14a8-4227-b516-3f247963bd07/public_url)
@@ -15,7 +17,7 @@ I’m a Software Engineer and Cloud Infrastructure Specialist with more than nin
 
 [Microsoft: Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/MeronHayle-8180/82EBBF137519BECB?sharingId=C858684284416639)
 
-[CC: Certified in Cybersecurity](https://www.credly.com/badges/0df92451-4a3e-4e31-90bb-d719b6c865da/public_url)
+[CC: Certified in Cybersecurity (ISC²)](https://www.credly.com/badges/0df92451-4a3e-4e31-90bb-d719b6c865da/public_url)
 
 [Oracle Cloud Infrastructure 2021 Architect Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=360150F64767557BEB1B0540B6B0FA516D447C65512605C0D45DA4B37C94124C)
 
