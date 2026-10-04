@@ -1,6 +1,6 @@
 # Hello
 
-I'm a software engineer with over 9 years of experience building scalable software and cloud-native solutions. I'm passionate about solving real world problems, continuously learning, contributing to open source, and sharing knowledge through my [personal blog](https://meronhayle.me/).
+I'm a software engineer with over ten years of experience building scalable software and cloud-native solutions. I'm passionate about solving real world problems, continuously learning, contributing to open source, and sharing knowledge through my [personal blog](https://meronhayle.me/).
 
 ### My Website / Profile
 [![giannis](https://img.shields.io/static/v1?style=for-the-badge&message=meronhayle.me&color=blue&logoColor=FFFFFF&label=)](https://meronhayle.me/)
